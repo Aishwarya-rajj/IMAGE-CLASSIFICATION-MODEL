@@ -67,3 +67,7 @@ python cnn_cifar10.py
 - Experiment with deeper architectures such as ResNet or VGG.
 - Fine-tune hyperparameters for optimal performance.
 - Deploy the model using Flask or FastAPI for real-time predictions.
+
+### Conclusion
+This project successfully demonstrates the application of Convolutional Neural Networks for image classification using the CIFAR-10 dataset. The model achieves promising results through a simple yet effective architecture. By visualizing accuracy and loss, insights into the training process are gained, enabling further optimization. Future improvements such as data augmentation and deeper networks can enhance the model's robustness and accuracy, making it a valuable baseline for more advanced image classification tasks.
+
